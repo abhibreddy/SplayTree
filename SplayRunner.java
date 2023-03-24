@@ -1,8 +1,7 @@
 
 /*
  * Abhi Reddy
- * Project 1
- * CS3345.002
+ * Splay Tree with operations insert,delete,search
  */
 import java.util.Scanner;
 
